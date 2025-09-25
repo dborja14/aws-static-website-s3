@@ -7,13 +7,9 @@ This project demonstrates how to host a static HTML website on AWS S3 using the 
 - IAM (Bucket Policy)
 
 ## 📷 Screenshots
-![S3 Settings](screenshots/s3-properties.png)
-![Website Preview](screenshots/website-preview.png)
-
-## 🔗 Live (Temporarily)
-[View Website](https://darryl-static-site-123.s3-website-ap-southeast-1.amazonaws.com)
-
-⚠️ This site was hosted under Free Tier and may be taken down to avoid charges.
+![S3 Properties](screenshots/s3-bucket-properties-website-endpoint.jpg)
+![S3 Policy](screenshots/s3-bucket-policy.jpg)
+![Website Preview](screenshots/s3-static-website.jpg)
 
 ## 🧠 What I Learned
 - Setting up S3 for static websites
